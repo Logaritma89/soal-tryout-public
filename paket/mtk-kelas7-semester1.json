@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "id": "mtk-7-s1",
+    "kode": "MTK7S1",
+    "nama": "Matematika Kelas 7 - Semester 1",
+    "mapel": "Matematika",
+    "jenjang": "SMP",
+    "kelas": 7,
+    "semester": 1,
+    "jumlah_soal": 4,
+    "durasi_menit": 30,
+    "versi": "1.0",
+    "terakhir_diupdate": "2026-09-13"
+  },
+  "soal": [
+    {
+      "id": 1,
+      "tipe": "PG",
+      "topik": "Aritmatika",
+      "tingkat": "mudah",
+      "pertanyaan": "Hasil dari $15 \\times 4$ adalah...",
+      "gambar": null,
+      "gambar_alt": null,
+      "pilihan": {
+        "A": "45",
+        "B": "50",
+        "C": "60",
+        "D": "70"
+      },
+      "jawaban": "C",
+      "skor": 1
+    },
+    {
+      "id": 2,
+      "tipe": "PGK",
+      "topik": "Bilangan Prima",
+      "tingkat": "sedang",
+      "pertanyaan": "Manakah yang termasuk bilangan prima? (Pilih semua jawaban yang benar)",
+      "gambar": null,
+      "gambar_alt": null,
+      "pilihan": {
+        "A": "2",
+        "B": "4",
+        "C": "7",
+        "D": "9",
+        "E": "11"
+      },
+      "jawaban": ["A", "C", "E"],
+      "skor": 2
+    },
+    {
+      "id": 3,
+      "tipe": "BS",
+      "topik": "Bilangan Bulat",
+      "tingkat": "sedang",
+      "pertanyaan": "Tentukan Benar atau Salah untuk setiap pernyataan berikut.",
+      "gambar": null,
+      "gambar_alt": null,
+      "pernyataan": [
+        { "id": "a", "teks": "$(-5) + 3 = -2$", "jawaban": "B" },
+        { "id": "b", "teks": "$(-4) \\times (-2) = -8$", "jawaban": "S" },
+        { "id": "c", "teks": "$0$ adalah bilangan bulat", "jawaban": "B" },
+        { "id": "d", "teks": "$(-10) : 2 = 5$", "jawaban": "S" }
+      ],
+      "skor": 2
+    },
+    {
+      "id": 4,
+      "tipe": "ISIAN",
+      "topik": "Aljabar",
+      "tingkat": "sedang",
+      "pertanyaan": "Jika $2x + 5 = 15$, maka nilai $x$ adalah...",
+      "gambar": null,
+      "gambar_alt": null,
+      "jawaban": "5",
+      "jawaban_alternatif": ["lima", "x=5", "x = 5"],
+      "tipe_input": "text",
+      "case_sensitive": false,
+      "trim_spasi": true,
+      "skor": 1
+    }
+  ]
+}
