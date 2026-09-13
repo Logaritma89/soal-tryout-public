@@ -1,0 +1,21 @@
+{
+  "versi": "1.0",
+  "terakhir_diupdate": "2026-09-13",
+  "paket": [
+    {
+      "id": "mtk-7-s1",
+      "kode": "MTK7S1",
+      "nama": "Matematika Kelas 7 - Semester 1",
+      "mapel": "Matematika",
+      "jenjang": "SMP",
+      "kelas": 7,
+      "semester": 1,
+      "jumlah_soal": 4,
+      "durasi_menit": 30,
+      "file": "paket/mtk-kelas7-semester1.json",
+      "deskripsi": "Bilangan bulat, aljabar dasar, dan garis bilangan",
+      "thumbnail": null,
+      "aktif": true
+    }
+  ]
+}
